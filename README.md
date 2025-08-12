@@ -12,6 +12,6 @@ Java Swing: https://www.geeksforgeeks.org/java/introduction-to-java-swing/
 
 From the src folder, run the following command:
 ```java
-javac Habit.java HabitManager.java HabitApp.java
+javac HabitGrid.java HabitApp.java
 java HabitApp
 ```
